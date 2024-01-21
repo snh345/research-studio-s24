@@ -24,12 +24,11 @@ The academic requirement for this class is a documention of each step of the res
 
 ### 2: February 14, 2024
 
-- Git and GitHub workshop
-- project updates
+- individual meetings 
 
 ### 3: February 28, 2024
 
-- TBD
+- Git and GitHub workshop
 
 ### 4: March 13, 2024
 
@@ -37,11 +36,11 @@ The academic requirement for this class is a documention of each step of the res
 
 ### 5: March 27, 2024
 
-- TBD
+- individual meetings
 
 ### 6: April 10, 2024
 
-- individual meetings
+- independent work
 
 ### 7: April 24, 2024
 
