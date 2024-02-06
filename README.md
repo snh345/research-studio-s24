@@ -22,6 +22,7 @@ The academic requirement for this class is a documention of each step of the res
 ### 1: January 31, 2024
 
 - Welcome and introductions
+- Create a [project plan based on the template](https://github.com/ml5js/research-studio-s24/blob/main/projects/template.md) and add it to the [projects directory](https://github.com/ml5js/research-studio-s24/tree/main/projects).
 
 ### 2: February 14, 2024
 
