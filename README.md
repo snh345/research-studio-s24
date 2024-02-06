@@ -41,7 +41,7 @@ The academic requirement for this class is a documention of each step of the res
 
 - independent work
 
-### 7: April 24, 2024
+### 7: April 17, 2024
 
 - final presentations
 
