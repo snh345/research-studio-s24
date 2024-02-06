@@ -20,15 +20,14 @@ The academic requirement for this class is a documention of each step of the res
 ### 1: January 31, 2024
 
 - Welcome and introductions
-- ml5.js overview
 
 ### 2: February 14, 2024
 
-- individual meetings 
+- ml5.js development overview
 
 ### 3: February 28, 2024
 
-- Git and GitHub workshop
+- ml5.js website overview
 
 ### 4: March 13, 2024
 
