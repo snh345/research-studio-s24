@@ -4,6 +4,8 @@ This course is a studio-oriented seminar where students will actively participat
 
 This is a research course, which is different structures compared to normal courses. The class offers a structure and resources for your own research, as opposed to a more typical curriculum.
 
+- [Details and Application Process Archive](<https://github.com/ml5js/ml5-next-gen/wiki/Topics-in-ITP:-Contributing-to-ml5.js-(Research)>)
+
 | Details      | &nbsp;                                                    |
 | ------------ | --------------------------------------------------------- |
 | Meeting Time | Wednesdays 9:30am-12pm every other week, starting 1/31/24 |
@@ -56,7 +58,7 @@ The academic requirement for this class is a documention of each step of the res
 
 ## Community Guidelines
 
-Please read and review the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md).
+Please read and review the [ITP/IMA Community Commitments](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
 
 ## Statement of Academic Integrity
 
