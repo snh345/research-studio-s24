@@ -47,16 +47,12 @@ I am unfamiliar with the process of contributing to an open-source environment, 
 
 ## Final Deliverable
 
-Describe the form and content of your project for the final presentation. This could include software, documentation, a research paper.
-
 - Annotated bibliography
 - UX Research "best practices" paper (with interviews from potential users and recommendations to consider)
 - Documentation and demo page of the library/one part of the library (even if only a hi-fi Figma prototype)
 - As far into a prototype/completed port of spleeter (or similar library) as I can possibly get
 
 ## Timeline
-
-Outline a plan, detailing what you aim to accomplish at each stage of your project. Include milestones, deliverables, and any deadlines. You can use the class dates or adjust according to your own schedule.
 
 - Jan 31 - Feb 14: Conduct preliminary research and gather resources. Finalize project plan and post to class GitHub.
 - Feb 14 - Feb 28: Conduct interviews and user research. Ensure that this is something people would be interested in using. Speak with experts (Yotam and/or Magdalena).
